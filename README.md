@@ -4,3 +4,12 @@ This is a simple implementation of Mask RCNN on Python 3, Keras and Tensorflow v
 ## Output
 Sample output of Mask RCNN (object detection and segmentation)
 ![output image](output.png)
+
+## Requirements
+### Installation
+`pip3 install -r requirements.txt`
+
+### Weight file
+Download the weight file from the below link and save it in the same directory
+[mask_rcnn_coco.h5](https://github.com/matterport/Mask_RCNN/releases/download/v1.0/mask_rcnn_coco.h5)
+
